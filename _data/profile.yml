@@ -3,8 +3,8 @@ secondary_name: ""
 navbar_name: "Weizhi Gao"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
+- logo: /assets/images/logo/nc_state.jpg  # Logo is optional
+  name: NC State
 - name: Position 2 without logo
 
 
@@ -30,7 +30,7 @@ short_bio: >-
     as well as being common in domestic longhair and domestic shorthair cats.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
