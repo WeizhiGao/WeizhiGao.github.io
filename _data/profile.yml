@@ -36,15 +36,19 @@ portrait_caption: >-
 
 education:
 - name: North Carolina State University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/logo/nc_state_circle.jpg
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+  date: Sep. 2023 - present
+- name: University of Chinese Academy of Sciences
+  logo: /assets/images/logo/nc_state_circle.jpg
+  position: M.S. in Computer Science
+  date: Sep. 2020 - Jul. 2023
+- name: Beijing Normal University
+  logo: /assets/images/logo/nc_state_circle.jpg
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2016 - Jul. 2020
 
 # experience:
 # - name: Peking University
