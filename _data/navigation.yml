@@ -1,6 +1,8 @@
 pages:
 - name: About me
   url: /
+- name: Experience
+  url: /experience  
 - name: Publications
   url: /publications
 - name: 
