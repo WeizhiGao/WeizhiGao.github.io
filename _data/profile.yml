@@ -62,15 +62,18 @@ education:
 
 experience:
 - name: NCSU
-  logo: /assets/images/badges/nc_state_circle.png
+  logo: /assets/images/logo/nc_state_circle.png
   position: Research Assistant
   date: May. 2024 - Aug. 2024
+- name: BNU
+  position: Research Assistant
+  date: May. 2018 - May. 2019
 
 awards:
 - name: Graduate Merit Award, NCSU
   date: 2024
 - name: Academic Scholarship of School of Mathematics Science, UCAS
-  date: 2020-2022
+  date: 2020 - 2022
 - name: Second Prize of BNU Mathematical Modeling Contest, BNU
   date: 2018
 - name: First Prize of New Student Scholarship (top 5%), BNU
