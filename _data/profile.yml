@@ -21,23 +21,23 @@ linkedin: weizhigao
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently a PhD student in Department of Computer Science of NCSU, under the supervision 
-    of 
-    <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank"> Xiaorui Liu</a>. My reseach mainly focuses on deep learning.
-    I recieved my master degree in applied math at 
-    <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Science</a> advised by
-    <a href="https://scholar.google.com/citations?user=CpmL7BkAAAAJ&hl=en" target="_blank">Yingjie Tian</a>
-    I revieved my bachelor degree in math at 
-    <a href="https://english.bnu.edu.cn/" target="_blank">Beijing Normal University</a> advised by
-    <a href="https://scholar.google.com/citations?user=mqruBEQAAAAJ&hl=en" target="_blank">Huajie Chen</a>
-    
-    In my spare time, I love playing badminton and have a group of friends loving it. 
-    It will be great if you are around Raleigh and join us.
+    I am currently a PhD student in the Department of Computer Science at 
+    <a href="https://www.ncsu.edu/" target="_blank">North Carolina State University</a> (NCSU), 
+    under the supervision of 
+    <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank">Xiaorui Liu</a>. 
+    My research mainly focuses on deep learning. 
+    I received my master's degree in applied mathematics at the 
+    <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a>, 
+    where I was advised by 
+    <a href="https://scholar.google.com/citations?user=CpmL7BkAAAAJ&hl=en" target="_blank">Yingjie Tian</a>. 
+    I earned my bachelor's degree in mathematics at 
+    <a href="https://english.bnu.edu.cn/" target="_blank">Beijing Normal University</a>, 
+    advised by 
+    <a href="https://scholar.google.com/citations?user=mqruBEQAAAAJ&hl=en" target="_blank">Huajie Chen</a>.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    In my spare time, I enjoy playing badminton and have a group of friends who share the same passion. 
+    If you're around Raleigh, it would be great to have you join us!
   </p>
 
 portrait_url: /assets/images/photos/profile.png
@@ -46,7 +46,7 @@ portrait_caption: >-
 
 education:
 - name: North Carolina State University
-  logo: /assets/images/logo/nc_state_circle.jpg
+  logo: /assets/images/logo/nc_state_circle.png
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
