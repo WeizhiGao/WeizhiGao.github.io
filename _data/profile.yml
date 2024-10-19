@@ -39,7 +39,6 @@ short_bio: >-
     In my spare time, I enjoy playing badminton and have a group of friends who share the same passion. 
     If you're around Raleigh, it would be great to have you join us!
   </p>
-  <p style="color: red;">This website is under construction. Revise research interests, news, talks, and publications</p>
 
 portrait_url: /assets/images/photos/profile.png
 # portrait_caption: >-
@@ -54,9 +53,9 @@ research_into: >-
   </p>
 
 research_interest:
-  - interest: robustness of deep learning
-  - interest: uncertainty of deep learning
-  - interest: deep implicit models
+  - interest: Robustness of deep learning
+  - interest: Uncertainty of deep learning
+  - interest: Deep implicit models
 
 education:
 - name: North Carolina State University
