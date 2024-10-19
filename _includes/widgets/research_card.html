@@ -7,6 +7,9 @@
                     <div class="col-md-12">
                         <div class="mx-2 my-1">
                             <h6>Research Interests</h6>
+                            <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
+                                {{ site.data.profile.short_bio }}
+                            </div>
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.research_interest %}
                                 <li>
