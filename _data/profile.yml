@@ -39,6 +39,7 @@ short_bio: >-
     In my spare time, I enjoy playing badminton and have a group of friends who share the same passion. 
     If you're around Raleigh, it would be great to have you join us!
   </p>
+  <p style="color: red;">This website is under construction. Revise research interests, news, talks, and publications</p>
 
 portrait_url: /assets/images/photos/profile.png
 portrait_caption: >-
@@ -70,6 +71,11 @@ experience:
   logo: /assets/images/logo/nc_state_circle.png
   position: Research Assistant (supervised by <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank">Xiaorui Liu</a> )
   date: May. 2024 - Aug. 2024
+- name: Tufts University
+  dept: Department of Computer Science
+  logo: /assets/images/logo/tufts.png
+  position: Coding Camping
+  date: July. 2018 - August. 2018
 - name: BNU
   dept: State Key Laboratory of Cognitive Neural Science and Learning
   logo: /assets/images/logo/bnu.png
