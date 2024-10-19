@@ -66,11 +66,14 @@ education:
 
 experience:
 - name: NCSU
+  dept: Department of Computer Science
   logo: /assets/images/logo/nc_state_circle.png
-  position: Research Assistant
+  position: Research Assistant (supervised by <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank">Xiaorui Liu</a> )
   date: May. 2024 - Aug. 2024
 - name: BNU
-  position: Research Assistant
+  dept: State Key Laboratory of Cognitive Neural Science and Learning
+  logo: /assets/images/logo/bnu.png
+  position: Research Assistant (supervised by <a href="https://scholar.google.com/citations?user=wETlqVYAAAAJ&hl=en" target="_blank">Dajun Xing</a> )
   date: May. 2018 - May. 2019
 
 awards:
@@ -86,3 +89,8 @@ awards:
   date: 2016-2019
 - name: First Prize of New Student Scholarship (top 5%), BNU
   date: 2016
+
+service:
+- name: Reviewer for International Conference on Learning Representations (ICLR) 2024
+- name: Reviewer for International Conference on Learning Representations (ICLR) 2023
+- name: Reviewer for ACM International Conference on Web Search and Data Mining (WSDM) 2023
