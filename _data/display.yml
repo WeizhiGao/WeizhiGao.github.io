@@ -1,4 +1,5 @@
 homepage:
+  show_interest: true
   show_education: true
   show_experience: true
   show_awards: true

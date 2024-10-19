@@ -25,7 +25,7 @@ short_bio: >-
     <a href="https://www.ncsu.edu/" target="_blank">North Carolina State University</a> (NCSU), 
     under the supervision of 
     <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank">Xiaorui Liu</a>. 
-    My research mainly focuses on deep learning. 
+    My research mainly focuses on trustworthy deep learning. 
     I received my master's degree in applied mathematics at the 
     <a href="https://www.ucas.ac.cn/" target="_blank">University of Chinese Academy of Sciences</a>, 
     where I was advised by 
@@ -42,8 +42,21 @@ short_bio: >-
   <p style="color: red;">This website is under construction. Revise research interests, news, talks, and publications</p>
 
 portrait_url: /assets/images/photos/profile.png
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+research_into: >-
+  <p>
+    My research primarily focuses on trustworthy AI, aiming to develop reliable predictions and decisions for real-world applications. 
+    Additionally, I am interested in architecture design, including implicit models. 
+    I am open to exploring a variety of research topics and have experience in areas such as data distillation and long-tailed classification. 
+    If you are interested in collaboration, feel free to reach out!
+  </p>
+
+research_interest:
+  - interest: robustness of deep learning
+  - interest: uncertainty of deep learning
+  - interest: deep implicit models
 
 education:
 - name: North Carolina State University
@@ -66,7 +79,7 @@ education:
   date: Sep. 2016 - Jul. 2020
 
 experience:
-- name: NCSU
+- name: North Carolina State University
   dept: Department of Computer Science
   logo: /assets/images/logo/nc_state_circle.png
   position: Research Assistant (supervised by <a href="https://sites.google.com/ncsu.edu/xiaorui/" target="_blank">Xiaorui Liu</a> )
@@ -75,8 +88,8 @@ experience:
   dept: Department of Computer Science
   logo: /assets/images/logo/tufts.png
   position: Coding Camping
-  date: July. 2018 - August. 2018
-- name: BNU
+  date: Jul. 2018 - Aug. 2018
+- name: Beijing Normal University
   dept: State Key Laboratory of Cognitive Neural Science and Learning
   logo: /assets/images/logo/bnu.png
   position: Research Assistant (supervised by <a href="https://scholar.google.com/citations?user=wETlqVYAAAAJ&hl=en" target="_blank">Dajun Xing</a> )
@@ -89,8 +102,6 @@ awards:
   date: 2020 - 2022
 - name: Second Prize of BNU Mathematical Modeling Contest, BNU
   date: 2018
-- name: First Prize of New Student Scholarship (top 5%), BNU
-  date: 2016
 - name: Second Prize of Scholarship, BNU
   date: 2016-2019
 - name: First Prize of New Student Scholarship (top 5%), BNU
