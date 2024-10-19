@@ -60,18 +60,18 @@ education:
   position: B.S. in Computer Science
   date: Sep. 2016 - Jul. 2020
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: NCSU
+  logo: /assets/images/badges/nc_state_circle.png
+  position: Research Assistant
+  date: May. 2024 - Aug. 2024
 
 awards:
 - name: Graduate Merit Award, NCSU
   date: 2024
 - name: Academic Scholarship of School of Mathematics Science, UCAS
   date: 2020-2022
-- name: Second Prize of Beijing Normal University Mathematical Modeling Contest, BNU
+- name: Second Prize of BNU Mathematical Modeling Contest, BNU
   date: 2018
 - name: First Prize of New Student Scholarship (top 5%), BNU
   date: 2016
