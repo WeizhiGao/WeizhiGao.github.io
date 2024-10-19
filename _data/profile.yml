@@ -53,11 +53,15 @@ education:
   date: Sep. 2023 - present
 - name: University of Chinese Academy of Sciences
   logo: /assets/images/logo/ucas.jpeg
-  position: M.S. in Computer Science
+  position:  >-
+    Applied Mathematics <br/>
+    M.S. Student
   date: Sep. 2020 - Jul. 2023
 - name: Beijing Normal University
   logo: /assets/images/logo/bnu.png
-  position: B.S. in Computer Science
+  position:  >-
+    Mathematics <br/>
+    B.S. Student
   date: Sep. 2016 - Jul. 2020
 
 experience:
