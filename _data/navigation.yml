@@ -1,7 +1,8 @@
 pages:
-- name: Home
+- name: About me
   url: /
 - name: Publications
   url: /publications
+- name: 
 # - name: Showcase
 #   url: /showcase
