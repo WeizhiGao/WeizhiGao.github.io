@@ -79,6 +79,11 @@ education:
   date: Sep. 2016 - Jul. 2020
 
 experience:
+- name: Oak Ridge National Laboratory (ORNL)
+  dept: National Center for Computational Science
+  logo: /assets/images/logo/ornl.png
+  date: May. 2025 - Aug. 2025
+  position: Research Assistant as an internship (supervised by <a href="https://www.ornl.gov/staff-profile/junqi-yin" target="_blank">Junqi Yin</a>)
 - name: North Carolina State University
   dept: Department of Computer Science
   logo: /assets/images/logo/nc_state_circle.png
