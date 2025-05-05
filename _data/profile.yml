@@ -46,16 +46,17 @@ portrait_url: /assets/images/photos/profile.png
 
 research_into: >-
   <p>
-    My research primarily focuses on trustworthy AI, aiming to develop reliable predictions and decisions for real-world applications. 
+    My research primarily focuses on trustworthy and efficient AI, aiming to develop reliable predictions and decisions for real-world applications. 
     Additionally, I am interested in architecture design, including implicit models. 
     I am open to exploring a variety of research topics and have experience in areas such as data distillation and long-tailed classification. 
     If you are interested in collaboration, feel free to reach out!
   </p>
 
 research_interest:
+  - interest: Generative AI
+  - interest: Efficient AI
   - interest: Robustness of deep learning
   - interest: Uncertainty of deep learning
-  - interest: Deep implicit models
 
 education:
 - name: North Carolina State University
@@ -107,6 +108,8 @@ awards:
   date: 2016
 
 service:
+- name: Reviewer for Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
+- name: Reviewer for International Conference on Learning Representations (ICML) 2025
 - name: Reviewer for International Conference on Learning Representations (ICLR) 2025
 - name: Reviewer for International Conference on Learning Representations (ICLR) 2023
 - name: Reviewer for ACM International Conference on Web Search and Data Mining (WSDM) 2023
